@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="col-md-6 col-md-offset-3 loginBox">
+        Welcome,  {{id}}
+        <a href="javascript:void(0);" (click)="logout()">Logout</a>
+    </div>
+</div>
+<div *ngIf="1==1">
+  <div class="container">
+    <div class="jumbotron">
+      <h1 class="display-4 text-center ">Plant Detail Manager</h1>
+      <hr>
+      <div class="row">
+        <div class="col-md-5">
+          <app-plant-detail></app-plant-detail>
+        </div>
+        <div class="col-md-7">
+          <app-plant-detail-list></app-plant-detail-list>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

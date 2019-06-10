@@ -1,0 +1,34 @@
+<div class="row justify-content-sm-center">
+  <div class="col-sm-7 text-center">
+    <br><br>
+    <h1>Bun venit pe acest site!</h1>
+    <p>Aici vei gasit cat mai multe informatii despre plante!</p>
+  </div>
+</div>
+
+
+  <select ngModel (ngModelChange)="onSubmit($event)">
+      <option [ngValue]="1" selected="selected">1</option>
+      <option [ngValue]="5">5</option>
+      <option [ngValue]="10">10</option>
+      <option [ngValue]="20">20</option>
+      <option [ngValue]="50">50</option>
+      <option [ngValue]="100">100</option>
+  </select>
+
+  <div class="row justify-content-sm-start">
+      <div *ngFor="let plant of service.list; let i = index">
+        <div *ngIf="listlengthVal > i">
+          <div class="col-sm-2 text-center">
+              <div class="card" style="width: 12rem;">
+                  <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1457_-_Keramikos_cemetery%2C_Athens_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12_2009_%281%29.jpg/1200px-1457_-_Keramikos_cemetery%2C_Athens_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12_2009_%281%29.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">{{plant.name}}</h5>
+                    <p class="card-text" style="width: 160px;height: 100px;overflow:hidden">{{plant.content}}</p>
+                    <a [routerLink]="['/plant',i]" class="btn btn-primary">Citeste mai mult...</a>
+                  </div>
+                </div>
+          </div>
+        </div>
+      </div>  
+    </div>

@@ -1,0 +1,14 @@
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\bin\Debug\netcoreapp2.2\WEBAPIBLOG.deps.json
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\bin\Debug\netcoreapp2.2\WEBAPIBLOG.runtimeconfig.json
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\bin\Debug\netcoreapp2.2\WEBAPIBLOG.runtimeconfig.dev.json
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\bin\Debug\netcoreapp2.2\WEBAPIBLOG.dll
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.csprojAssemblyReference.cache
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.csproj.CoreCompileInputs.cache
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.RazorAssemblyInfo.cache
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.RazorAssemblyInfo.cs
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.AssemblyInfoInputs.cache
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.AssemblyInfo.cs
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.RazorTargetAssemblyInfo.cache
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\bin\Debug\netcoreapp2.2\WEBAPIBLOG.pdb
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.dll
+C:\Users\RanZY\source\repos\WEBAPIBLOG\WEBAPIBLOG\obj\Debug\netcoreapp2.2\WEBAPIBLOG.pdb
